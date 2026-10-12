@@ -1,0 +1,4 @@
+Learning Git step by step
+oi oi oi
+Comparing diffs is useful
+

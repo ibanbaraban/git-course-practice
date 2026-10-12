@@ -1,0 +1,4 @@
+1.git version 2.55.0.windows.3
+2.windows
+3-4.      name = Ivan Omelchuk
+        email = omelchuk2008ivan@gmail.com
