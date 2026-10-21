@@ -1,0 +1,7 @@
+$ git branch -a
+  chore/cleanup-practice
+  feature/branch-practice
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
+
